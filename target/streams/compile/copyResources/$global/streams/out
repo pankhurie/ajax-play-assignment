@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Documents/KIPSolutions/play/play-assignment03/conf/application.conf,/home/knoldus/Documents/KIPSolutions/play/play-assignment03/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Documents/KIPSolutions/play/play-assignment03/conf/routes,/home/knoldus/Documents/KIPSolutions/play/play-assignment03/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Documents/KIPSolutions/play/play-assignment03/conf/logback.xml,/home/knoldus/Documents/KIPSolutions/play/play-assignment03/target/scala-2.11/classes/logback.xml)[0m

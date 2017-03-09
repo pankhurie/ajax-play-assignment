@@ -1,0 +1,109 @@
+2017-03-09 15:51:46,009 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2017-03-09T10:21:45.991Z.
+2017-03-09 15:51:46,426 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2017-03-09 15:52:09,435 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Stopping application at 2017-03-09T10:22:09.435Z after 24s.
+2017-03-09 15:52:09,646 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Starting application at 2017-03-09T10:22:09.645Z.
+2017-03-09 15:52:09,789 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-5 - Application started (Dev)
+2017-03-09 15:53:01,083 [INFO] from application in application-akka.actor.default-dispatcher-7 - ApplicationTimer demo: Stopping application at 2017-03-09T10:23:01.083Z after 52s.
+2017-03-09 15:53:01,276 [INFO] from application in application-akka.actor.default-dispatcher-7 - ApplicationTimer demo: Starting application at 2017-03-09T10:23:01.275Z.
+2017-03-09 15:53:01,408 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-7 - Application started (Dev)
+2017-03-09 15:53:14,906 [INFO] from application in application-akka.actor.default-dispatcher-3 - ApplicationTimer demo: Stopping application at 2017-03-09T10:23:14.906Z after 13s.
+2017-03-09 15:53:15,057 [INFO] from application in application-akka.actor.default-dispatcher-3 - ApplicationTimer demo: Starting application at 2017-03-09T10:23:15.056Z.
+2017-03-09 15:53:15,219 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-3 - Application started (Dev)
+2017-03-09 15:54:14,702 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:14.683Z.
+2017-03-09 15:54:15,532 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:15.532Z after 1s.
+2017-03-09 15:54:15,674 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:15.674Z.
+2017-03-09 15:54:15,931 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:15.931Z after 0s.
+2017-03-09 15:54:16,038 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:16.038Z.
+2017-03-09 15:54:16,091 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:16.091Z after 0s.
+2017-03-09 15:54:16,200 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:16.200Z.
+2017-03-09 15:54:16,243 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:16.243Z after 0s.
+2017-03-09 15:54:16,354 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:16.354Z.
+2017-03-09 15:54:16,577 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:16.577Z after 0s.
+2017-03-09 15:54:16,671 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:16.671Z.
+2017-03-09 15:54:16,721 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:16.721Z after 0s.
+2017-03-09 15:54:16,859 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:16.859Z.
+2017-03-09 15:54:16,914 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:16.914Z after 0s.
+2017-03-09 15:54:17,028 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:17.028Z.
+2017-03-09 15:54:17,083 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:17.083Z after 0s.
+2017-03-09 15:54:17,191 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:17.191Z.
+2017-03-09 15:54:17,248 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:17.248Z after 0s.
+2017-03-09 15:54:17,328 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:17.328Z.
+2017-03-09 15:54:17,375 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:17.375Z after 0s.
+2017-03-09 15:54:17,453 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:17.453Z.
+2017-03-09 15:54:17,516 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:17.516Z after 0s.
+2017-03-09 15:54:17,601 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:24:17.601Z.
+2017-03-09 15:54:17,668 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:24:17.668Z after 0s.
+2017-03-09 15:55:18,657 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Stopping application at 2017-03-09T10:25:18.657Z after 123s.
+2017-03-09 15:55:18,868 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Starting application at 2017-03-09T10:25:18.864Z.
+2017-03-09 15:55:19,103 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
+2017-03-09 15:55:25,790 [INFO] from application in application-akka.actor.default-dispatcher-8 - ApplicationTimer demo: Stopping application at 2017-03-09T10:25:25.790Z after 7s.
+2017-03-09 15:55:25,911 [INFO] from application in application-akka.actor.default-dispatcher-8 - ApplicationTimer demo: Starting application at 2017-03-09T10:25:25.910Z.
+2017-03-09 15:55:26,020 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-8 - Application started (Dev)
+2017-03-09 15:55:32,229 [INFO] from application in application-akka.actor.default-dispatcher-9 - ApplicationTimer demo: Stopping application at 2017-03-09T10:25:32.229Z after 7s.
+2017-03-09 15:55:32,346 [INFO] from application in application-akka.actor.default-dispatcher-9 - ApplicationTimer demo: Starting application at 2017-03-09T10:25:32.345Z.
+2017-03-09 15:55:32,450 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-9 - Application started (Dev)
+2017-03-09 15:55:37,442 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Stopping application at 2017-03-09T10:25:37.442Z after 5s.
+2017-03-09 15:55:37,532 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Starting application at 2017-03-09T10:25:37.531Z.
+2017-03-09 15:55:37,620 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-5 - Application started (Dev)
+2017-03-09 16:05:51,395 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:35:51.370Z.
+2017-03-09 16:05:52,478 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:35:52.478Z after 1s.
+2017-03-09 16:06:28,553 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:36:28.527Z.
+2017-03-09 16:06:29,839 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:36:29.839Z after 1s.
+2017-03-09 16:06:30,020 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:36:30.020Z.
+2017-03-09 16:06:30,120 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:36:30.120Z after 0s.
+2017-03-09 16:06:30,277 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:36:30.277Z.
+2017-03-09 16:06:30,348 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:36:30.348Z after 0s.
+2017-03-09 16:07:23,068 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:37:23.045Z.
+2017-03-09 16:07:24,276 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:37:24.276Z after 1s.
+2017-03-09 16:09:09,961 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:39:09.938Z.
+2017-03-09 16:09:10,876 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:39:10.876Z after 1s.
+2017-03-09 16:09:30,933 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:39:30.906Z.
+2017-03-09 16:09:32,065 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:39:32.065Z after 2s.
+2017-03-09 16:10:35,723 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:40:35.700Z.
+2017-03-09 16:10:36,825 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:40:36.825Z after 1s.
+2017-03-09 16:11:57,021 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:41:56.995Z.
+2017-03-09 16:11:58,084 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:41:58.084Z after 2s.
+2017-03-09 16:11:58,234 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:41:58.234Z.
+2017-03-09 16:11:58,348 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:41:58.348Z after 0s.
+2017-03-09 16:11:58,504 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:41:58.504Z.
+2017-03-09 16:11:58,566 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:41:58.566Z after 0s.
+2017-03-09 16:11:58,705 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:41:58.704Z.
+2017-03-09 16:11:58,797 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:41:58.796Z after 0s.
+2017-03-09 16:11:58,919 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:41:58.918Z.
+2017-03-09 16:11:59,004 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:41:59.004Z after 1s.
+2017-03-09 16:12:40,629 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:42:40.610Z.
+2017-03-09 16:12:41,736 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:42:41.736Z after 1s.
+2017-03-09 16:12:41,870 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:42:41.870Z.
+2017-03-09 16:12:42,006 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:42:42.006Z after 1s.
+2017-03-09 16:12:42,115 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:42:42.115Z.
+2017-03-09 16:12:42,178 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:42:42.177Z after 0s.
+2017-03-09 16:12:42,300 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:42:42.300Z.
+2017-03-09 16:12:42,366 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:42:42.366Z after 0s.
+2017-03-09 16:12:42,495 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:42:42.495Z.
+2017-03-09 16:12:42,587 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:42:42.585Z after 0s.
+2017-03-09 16:13:51,839 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:43:51.819Z.
+2017-03-09 16:13:52,957 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:43:52.957Z after 1s.
+2017-03-09 16:14:53,887 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:44:53.863Z.
+2017-03-09 16:14:55,009 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:44:55.009Z after 2s.
+2017-03-09 16:14:55,136 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:44:55.136Z.
+2017-03-09 16:14:55,229 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:44:55.229Z after 0s.
+2017-03-09 16:14:55,391 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:44:55.391Z.
+2017-03-09 16:14:55,442 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:44:55.442Z after 0s.
+2017-03-09 16:14:55,562 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:44:55.562Z.
+2017-03-09 16:14:55,613 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:44:55.612Z after 0s.
+2017-03-09 16:15:55,378 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:45:55.356Z.
+2017-03-09 16:15:56,360 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:45:56.360Z after 1s.
+2017-03-09 16:15:56,519 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:45:56.519Z.
+2017-03-09 16:15:56,775 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:45:56.775Z after 0s.
+2017-03-09 16:15:56,902 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:45:56.902Z.
+2017-03-09 16:15:56,946 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:45:56.946Z after 0s.
+2017-03-09 16:15:57,065 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:45:57.065Z.
+2017-03-09 16:15:57,129 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:45:57.129Z after 0s.
+2017-03-09 16:16:11,089 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:46:11.038Z.
+2017-03-09 16:16:12,259 [INFO] from application in ScalaTest-run-running-HomeControllerSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:46:12.259Z after 1s.
+2017-03-09 16:16:21,690 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Starting application at 2017-03-09T10:46:21.667Z.
+2017-03-09 16:16:22,829 [INFO] from application in ScalaTest-run-running-RoutesSpec - ApplicationTimer demo: Stopping application at 2017-03-09T10:46:22.829Z after 1s.
+2017-03-09 16:31:05,431 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T11:01:05.401Z.
+2017-03-09 16:31:06,431 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T11:01:06.431Z after 1s.
+2017-03-09 16:31:28,389 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Starting application at 2017-03-09T11:01:28.370Z.
+2017-03-09 16:31:29,211 [INFO] from application in ScalaTest-run-running-ViewsSpec - ApplicationTimer demo: Stopping application at 2017-03-09T11:01:29.210Z after 1s.

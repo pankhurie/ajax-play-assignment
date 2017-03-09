@@ -1,0 +1,4 @@
+[0m[[31merror[0m] [0m/home/knoldus/Documents/KIPSolutions/play/play-assignment03/app/views/signup.scala.html:69: Expected '"' but found 'EOF'[0m
+[0m[[31merror[0m] [0m@footer()[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0m(compile:[31mtwirlCompileTemplates[0m) Twirl compilation failed[0m

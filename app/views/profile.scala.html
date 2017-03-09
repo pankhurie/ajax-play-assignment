@@ -1,0 +1,84 @@
+@import play.api.Play.current
+@import play.api.i18n.Messages.Implicits._
+@import play.api.mvc.Session
+@import play.api.mvc.Request
+@(user:models.User)(implicit request: play.api.mvc.RequestHeader)
+@header()
+<br><br>
+<div class="row container">
+    <i>Welcome  @request.session.get("connected")</i></div><br>
+<div class="row container">
+    <table class="table">
+        <tbody>
+        <tr>
+            <td>User Name</td>
+            <td>@user.name</td>
+        </tr>
+        <tr>
+            <td>First Name</td>
+            <td>@user.fname</td>
+        </tr>
+        <tr>
+            <td>Middle Name</td>
+            <td>@user.mname</td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td>@user.lname</td>
+        </tr>
+
+        <tr >
+            <td>Mobile</td>
+            <td>@user.mobile</td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>@user.gender</td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>@user.age</td>
+        </tr>
+        <tr>
+            <td>Hobbies</td>
+
+            <td>
+                @if(user.singing){
+                Singing<br>
+                }
+                @if(user.dancing){
+                Dancing<br>
+                }
+                @if(user.reading){
+                Reading<br>
+                }
+                @if(user.sports){
+                Sports<br>
+                }
+            </td>
+
+
+        </tr>
+        <tr>
+            <form method="post" action = "@routes.HomeController.upload" enctype="multipart/form-data">
+                <td>Add Profile Picture</td>
+                <td>
+                    <input type="file" name="picture"> <input type="submit" value="Upload" class="btn btn-default">
+                </td>
+            </form>
+        </tr>
+
+        @if(user.isAdmin){
+        <tr>
+            <td>Manage Users</td>
+            <td><a href="/management">Go To Management Console</a></td>
+
+        </tr>
+        }
+
+        </tbody>
+    </table>
+
+    <a href="/logout" class="btn btn-success">Logout</a>
+    </div>
+@footer()

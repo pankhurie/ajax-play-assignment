@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0mjavaOptions: List(-Djna.nosys=true)[0m
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalatest.tools.Framework produced 3 initial tasks for 3 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(RoutesSpec, sbt.ForkMain$SubclassFingerscan@7199aa21, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mRoutesSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mRoutes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should send 404 on a bad request[0m[0m
+[0m[[0minfo[0m] [0m[32m- should respond to the index Action[0m[0m
+[0m[[0minfo[0m] [0m[32m- should respond to the signUp Action[0m[0m
+[0m[[0minfo[0m] [0m[32m- should respond to the signIn Action[0m[0m
+[0m[[0minfo[0m] [0m[32m- should respond to the signUp Form Action[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(services.UserListServiceSpec, sbt.ForkMain$SubclassFingerscan@6dfd3f9f, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mUserListServiceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mUserListService should[0m[0m
+[0m[[0minfo[0m] [0m[32m- should get user list[0m[0m
+[0m[[0minfo[0m] [0m[32m- should add user[0m[0m
+[0m[[0minfo[0m] [0m[32m- should get user[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(controllers.HomeControllerSpec, sbt.ForkMain$SubclassFingerscan@2d12d005, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mHomeControllerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mHomeController[0m[0m
+[0m[[0minfo[0m] [0m[32m- should render the welcome page[0m[0m
+[0m[[0minfo[0m] [0m[32m- should render the sign in page[0m[0m
+[0m[[0minfo[0m] [0m[32m- should render the sign up page[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0mdebug[0m] [0mRunner for com.novocode.junit.JUnitFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 5 seconds, 47 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 11, Failed 0, Errors 0, Passed 11[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	controllers.HomeControllerSpec[0m
+[0m[[0mdebug[0m] [0m	RoutesSpec[0m
+[0m[[0mdebug[0m] [0m	services.UserListServiceSpec[0m
